@@ -1,10 +1,10 @@
-[![TKEY7 Instant Payment System](https://github.com/tkey7/.github/blob/main/images/iso20022-tkey7-lang-rust.jpg)](https://tkey7.com/ru)
+[![TKEY7 Instant Payment System](https://github.com/tkey7/.github/blob/main/images/iso20022-tkey7-lang-rust.jpg)](https://tkey7.com)
 
 <p align="center">
   ·
-  <a href="https://developer.tkey7.com/ru/docs-introduction">Документация TKEY7</a>
+  <a href="https://developer.tkey7.com">TKEY7 Documentation</a>
   ·
-  <a href="https://developer.tkey7.com/ru/api-introduction">API документация</a>
+  <a href="https://developer.tkey7.com/api-introduction">API Documentation</a>
   ·
   <br>
   <br>
@@ -12,12 +12,14 @@
 
 # iso20022-Rust
 
-Структуры финансовых сообщений ISO 20022 для языка программирования Rust.
+ISO 20022 financial message structures for the Rust programming language.
 
-# Документация
+> For representatives of organizations from the CIS or Russia, a Russian-language version of the [README](https://github.com/tkey7/iso20022-Rust/blob/main/READMERU.md) file is available.
 
-Подробная информация о системе TKEY7 доступна на [портале разработчика](https://developer.tkey7.com/ru/).
+# TKEY7 Documentation
 
-# Лицензия
+More information about the TKEY7 system is available on the [developer’s portal](https://developer.tkey7.com).
 
-Лицензия Apache License 2.0 — [подробнее о лицензии](https://github.com/tkey7/iso20022-tkey7/blob/main/LICENSE).
+# License
+
+Apache License 2.0 — See [LICENSE](https://github.com/tkey7/iso20022-Rust/blob/main/LICENSE) for details.
